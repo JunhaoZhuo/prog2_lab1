@@ -108,7 +108,7 @@ public interface InCamping {
                         String material, boolean casaMascota);
 
 
-    /**
+    /*
      *  Afegeix una mobil-home a la llista d'allotjaments.
      * @param terrassaBarbacoa true si disposa de terrassa amb barbacoa.
      * (Altres paràmetres igual que `afegirBungalow`)
